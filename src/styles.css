@@ -1,0 +1,15 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.product-row {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 10px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
