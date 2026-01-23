@@ -4,12 +4,12 @@ Aplicación web de carrito de compras desarrollada con React y Firebase para la 
 
 ---
 
-## 🌐 Enlaces del proyecto
+## Enlaces del proyecto
 
-- 🔗 **Repositorio GitHub:**  
+- **Repositorio GitHub:**  
   https://github.com/Isco-Lina/carrito-compras-firebase.git
 
-- 🌍 **Aplicación desplegada en Netlify:**  
+- **Aplicación desplegada en Netlify:**  
   https://carrito-compras-firebase.netlify.app/
 
 ---
@@ -32,18 +32,18 @@ Aplicación web de carrito de compras desarrollada con React y Firebase para la 
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
-1️⃣ Instalar dependencias
-npm install
+1. Instalar dependencias
+   npm install
 
-2️⃣ Iniciar Firebase Emulators
+2️. Iniciar Firebase Emulators
 firebase emulators:start
 
-3️⃣ Ejecutar la aplicación
+3️. Ejecutar la aplicación
 npm run dev
 
-4️⃣ Abrir en el navegador
+4️. Abrir en el navegador
 http://localhost
 
 Emulator UI
